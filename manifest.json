@@ -1,0 +1,41 @@
+
+{
+  "short_name": "FazendaMaster",
+  "name": "Fazenda Master: Simulador Rural",
+  "description": "Gerencie sua própria fazenda com consultoria de IA.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2318/2318283.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2318/2318283.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2318/2318283.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "theme_color": "#16a34a",
+  "background_color": "#f5f5f4",
+  "orientation": "portrait",
+  "categories": ["games", "productivity"],
+  "screenshots": [
+    {
+      "src": "https://images.unsplash.com/photo-1500382017468-9049fee74a62?auto=format&fit=crop&w=800&q=80",
+      "sizes": "800x600",
+      "type": "image/jpg",
+      "form_factor": "wide",
+      "label": "Vista da Fazenda"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Fazenda Master: Simulador de Gerenciamento",
+  "description": "Um simulador completo de gerenciamento de fazenda inspirado no Farm Manager, focado em economia, plantio, gestão de silos e consultoria via IA.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "mobileOptimized": true,
+  "appType": "game"
+}
